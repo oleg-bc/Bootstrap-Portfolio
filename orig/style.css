@@ -4,10 +4,11 @@ h1 {
     background-color: #4aaaa5;
     display: inline-block;   
     height: 75px;
-    margin: 0px 10px 0px auto;
     padding-top: 20px;
     padding-right: 25px;
     padding-left: 25px;
+
+
 }
 
 h2 {
@@ -40,3 +41,6 @@ body {
     border-width: 5px;
     border-color: #dddddd;
 }
+
+.col-8{margin-left:25px;}
+.col-1{margin-right:25px;}
