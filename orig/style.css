@@ -1,0 +1,14 @@
+h1 {
+    font-size: 35px;
+    color: white;
+    background-color: #4aaaa5;
+    display: inline-block;   
+    height: 75px;
+    margin: 0px 10px 0px auto;
+    padding-top: 20px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+body {
+    background-image: url("images/ep_naturalwhite/ep_naturalwhite/ep_naturalwhite.png");
+}
